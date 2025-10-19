@@ -1,9 +1,8 @@
 # gemini-chatbot
-Here's a sample **README.md** file for your Gemini-powered chatbot script using the `google.generativeai` SDK:
 
 ---
 
-# 💬 Gemini-Powered Chatbot
+# 💬 Gemini-Chatbot
 
 A simple command-line chatbot built using the `google.generativeai` SDK and the Gemini 2.5 Flash model.
 
@@ -111,5 +110,3 @@ MIT License
 * Built using the **Gemini 2.5 Flash** model
 
 ---
-
-Let me know if you want this README saved as a file, or customized for publishing to GitHub.
